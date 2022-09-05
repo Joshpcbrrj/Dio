@@ -131,3 +131,4 @@ Aqui podemos ter 2 tipos de aplicativos :
 - Nativo → Aplicação focada no tipo de sistema operacional específico do dispositivo móvel. Foco maior na performance dos apps.
 
 ---
+[Voltar para o Readme](https://github.com/Joshpcbrrj/Dio/blob/main/README.md#prepare-se-para-a-jornada)
