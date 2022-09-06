@@ -1,4 +1,4 @@
-# Dio
+# Digital Innovation One
 > Conteúdo dos basecamps da Dio.
 
 ### Prepare-se para a jornada
